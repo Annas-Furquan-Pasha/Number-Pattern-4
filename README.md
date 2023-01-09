@@ -8,3 +8,6 @@ example : for height=4, the pattern is,
  4 5 6 
 7 8 9 10 
 ```
+
+
+you can also view other Asterisk Patterns [Here](https://github.com/Annas-Furquan-Pasha?tab=repositories)
